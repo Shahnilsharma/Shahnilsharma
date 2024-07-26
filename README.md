@@ -6,7 +6,7 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/shahnil.py) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shahnilsharma) [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/shahnilsharma) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,ae,arduino,bootstrap,css,vite,tailwind,solidity,remix,react,py,nodejs,jquery,js,HTML,githubactions,figma&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,ae,arduino,bootstrap,css,vite,tailwind,solidity,remix,react,py,nodejs,jquery,js,HTML,githubactions,figma&perline=8)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
