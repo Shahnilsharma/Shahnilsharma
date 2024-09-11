@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front-End development, Blockchain projects <br>🤝 I’m looking for help with solidity smart contracts, web development<br>🌱 I’m currently learning full stack and Web3<br>⚡ Fun fact I have good medical  knowledge too
+🔭 I’m currently working on Front-End development, Blockchain projects <br>🤝 I’m looking for solidity smart contracts, web development projects<br>🌱 I’m currently learning full stack and Web3<br>⚡ Fun fact I have good medical  knowledge too
 
 
 ## 🌐 Socials:
