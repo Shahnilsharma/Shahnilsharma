@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on  Blockchain projects,  <br>🤝 Good at writing solidity smart contracts, Cosmwasm(rust)-Cosmos<br>🌱 Anchor(rust)-Solana⚡Cairo (Starknet), Currently studying and implementing major smart contracts audits.
 
+![asset](./asset.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shahnilsharma) [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/shahnilsharma) 
